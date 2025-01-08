@@ -11,7 +11,9 @@ body {
     margin-left: 150px;
     transition: 0.5s;
 }
-
+div{
+    text-align:center;
+}
 #yesButton {
     position: absolute;
     margin-right: 150px;
